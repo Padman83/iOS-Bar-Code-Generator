@@ -2,7 +2,7 @@
 
 ## 📱 iOS-Bar-Code-Generator
 
-![iOS Basic Stop Watch](https://user-images.githubusercontent.com/45048950/74952604-74f15c80-543b-11ea-8946-fbcbd8cbde78.gif)
+![iOS Bar Code Generator](https://user-images.githubusercontent.com/45048950/77667549-52fc7400-6fbd-11ea-8cf5-21110970a871.gif)
 
 ## 🧰 System Requirements
 
